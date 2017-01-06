@@ -1,0 +1,21 @@
+{
+  "name": "cms_upload",
+  "version": "0.0.0",
+  "description": "upload file in cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cms",
+    "upload"
+  ],
+  "author": "suxiawang",
+  "license": "MIT",
+  "dependencies": {
+    "casperjs": "latest",
+    "consoleplusplus": "latest",
+    "optimist": "latest",
+    "phantomjs": "latest"
+  }
+}
